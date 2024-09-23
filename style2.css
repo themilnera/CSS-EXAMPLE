@@ -3,7 +3,7 @@ span {
   background-color: green;
   margin: 20px;
 }
-div .examplediv {
+.examplediv {
   background-color: red;
   border: 2px solid crimson;
   margin: 20px;
