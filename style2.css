@@ -3,12 +3,12 @@ span {
   background-color: green;
   margin: 20px;
 }
-/* div {
+div .examplediv {
   background-color: red;
   border: 2px solid crimson;
   margin: 20px;
   padding: 20px;
-} */
+}
 
 /*block is block level, inline is inline, but inline-block is treated as a block as far as margin and padding is concerned,
 but treats the inside elements as inline*/
