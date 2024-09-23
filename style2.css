@@ -1,0 +1,28 @@
+span {
+  /*display: block;*/
+  background-color: green;
+  margin: 20px;
+}
+/* div {
+  background-color: red;
+  border: 2px solid crimson;
+  margin: 20px;
+  padding: 20px;
+} */
+
+/*block is block level, inline is inline, but inline-block is treated as a block as far as margin and padding is concerned,
+but treats the inside elements as inline*/
+
+.demonstration {
+  background-color: forestgreen;
+}
+div .demonstration2 {
+  background-color: blueviolet;
+}
+.demonstration3.another {
+  background-color: rgb(65, 159, 163);
+}
+
+a[href="index.html"] {
+  background-color: darkgoldenrod;
+}
